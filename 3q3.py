@@ -14,3 +14,6 @@ for i in n:
 	if i not in "a,e,i,o,u,A,E,I,O,U":
 		print(i)
 print(l)
+
+
+
